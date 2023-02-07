@@ -63,7 +63,5 @@ PrintArray(array);
 Console.WriteLine("Среднее значение в столбцах:");
 ColumnSrednee(array);
 
-// int[] test = new int[array.GetLength(0)];
-// Console.WriteLine(String.Join("\t", test));
 
 
